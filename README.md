@@ -5,12 +5,10 @@
 # Have too Captures of funcionality
 
 # 1.- Expandible Button
-<img src="https://github.com/ssatani/Sistema-detalle-de-venta/blob/master/Capturas/1.png?raw=true
-" alt="">
+<img src="https://github.com/ssatani/Sistema-detalle-de-venta/blob/master/Capturas/1.png?raw=true" alt="">
 
 # 2.- Looking options in expandible frame.
-<img src="https://github.com/ssatani/Sistema-detalle-de-venta/blob/master/Capturas/2.png?raw=true
-" alt="">
+<img src="https://github.com/ssatani/Sistema-detalle-de-venta/blob/master/Capturas/2.png?raw=true" alt="">
 
 # 3.- List of Products.
 <img src="https://github.com/ssatani/Sistema-detalle-de-venta/blob/master/Capturas/3.png?raw=true" alt="">
